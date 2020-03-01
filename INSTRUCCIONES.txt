@@ -1,0 +1,2 @@
+Solo Ejecuta EL codigo Fuente, Este Creara la Base de datos Automaticamente
+En SQLserver, la Base de datos que se crea se llama: BASEADA
